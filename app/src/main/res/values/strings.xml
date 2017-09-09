@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">savari</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_drivers__map">Map</string>
+</resources>
